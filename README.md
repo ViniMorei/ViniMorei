@@ -40,13 +40,11 @@
 
 ###
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinimorei&show_icons=true&theme=dark&locale=en&layout=compact" alt="vinimorei" width="300"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinimorei&show_icons=true&theme=dark&locale=en" alt="vinimorei" width="300"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinimorei&show_icons=true&theme=dark&locale=en&layout=compact" alt="vinimorei" height="160"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinimorei&theme=dark" alt="vinimorei" width="300"/></p>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinimorei&show_icons=true&theme=dark&locale=en" alt="vinimorei" height="160"/></p>
+
 
 ###
 
