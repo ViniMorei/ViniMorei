@@ -72,15 +72,21 @@
 ---
 
 ### 📊 Estatísticas do GitHub
+<!-- ![ViniMorei's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMorei&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![ViniMorei's Stats](https://github-readme-stats.vercel.app/api?username=ViniMorei&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ViniMorei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViniMorei&theme=vue-dark&hide_border=true) -->
 
-<div align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniMorei&theme=vue-dark&hide_border=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=ViniMorei&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMorei&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150">
+
+<!-- <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinimorei&show_icons=true&theme=dark&locale=en&layout=compact" alt="vinimorei" height="160" style="margin-right: 20px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vinimorei&show_icons=true&theme=dark&locale=en" alt="vinimorei" height="160"/>
 </div>
-
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ViniMorei&theme=dark" alt="GitHub Streak" /></a>
-</div>
+</div> -->
 
 
 ###
