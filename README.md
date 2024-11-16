@@ -73,10 +73,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div style="width: 566px; height: 200px; border: 1px solid black; overflow-x: auto; overflow-y: hidden; box-sizing: border-box; padding: 10px; display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMorei&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniMorei&theme=vue-dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniMorei&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+<div style="width: 566px; height: 150; border: 1px solid black; overflow-x: auto; overflow-y: hidden; box-sizing: border-box; padding: 10px; display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMorei&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniMorei&theme=vue-dark&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniMorei&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150">
 </div>
 
 
