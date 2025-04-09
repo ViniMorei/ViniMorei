@@ -10,6 +10,7 @@
 - 🌱 **Aprendendo**: _Kotlin_, _C#_, _C++_, _Django_ e _Flask_
 
 <!-- - 🗃️ Projetos: [Portfólio](www.vinimoreira-ara.herokuapp.com) -->
+- 🎮 **Jogos**: [Perfil no _itch.io_](https://vinisummers.itch.io/)
 
 - 📫 **Contato**: [vinicius.moreira.ara@gmail.com](mailto:vinicius.moreira.ara@gmail.com)
 
