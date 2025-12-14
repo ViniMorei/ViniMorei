@@ -17,25 +17,14 @@ Software Engineering student focused on <strong>Back-end Development</strong>, <
 
 ### 🛠️ Tech Stack
 
-**Languages**
-- Python, Java  
-- C, C++, C#  
-- JavaScript, HTML, CSS  
 
-**Back-end & APIs**
-- Django, Flask
-- Spring Boot
-- REST APIs
-- Postman
+- **Languages:** Python, Java, C, C++, C#, JavaScript, HTML, CSS  
+- **Back-end:** Django, Flask, Spring Boot, REST APIs  
+- **Data:** Pandas, MySQL, PostgreSQL, SQLite, MongoDB  
+- **Game Dev:** Unity, Unreal Engine
 
-**Game Development**
-- Unity
-- Pygame
-- Unreal Engine
+</details>
 
-**Data & Databases**
-- Pandas
-- MySQL, PostgreSQL, SQLite, MongoDB
 
 ---
 
