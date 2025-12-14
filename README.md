@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Vinicius Moreira 👋</h1>
 
-<p align="center">
-Software Engineering student focused on <strong>Back-end Development</strong>, <strong>Game Development</strong> and <strong>Data Analysis</strong>.
-</p>
+<div align="center">
+Software Engineering student focused on <strong>Back-end Development</strong>, <strong>Game Development</strong> and <strong>Data Analysis</strong>
+
+**Contact**: [vinicius.moreira.ara@gmail.com](mailto:vinicius.moreira.ara@gmail.com). **Projects**: [itch.io](https://vinisummers.itch.io/)
+</div>
 
 ---
 
@@ -22,16 +24,3 @@ Software Engineering student focused on <strong>Back-end Development</strong>, <
 - **Back-end:** Django, Flask, Spring Boot, REST APIs  
 - **Data:** Pandas, MySQL, PostgreSQL, SQLite, MongoDB  
 - **Game Dev:** Unity, Unreal Engine
-
-</details>
-
-
----
-
-### 🎮 Game Projects
-- Check out my games on **[itch.io](https://vinisummers.itch.io/)**
-
----
-
-### 📫 Contact
-- 📧 Email: **vinicius.moreira.ara@gmail.com**
